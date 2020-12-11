@@ -1,8 +1,6 @@
 ![Labex](https://user-images.githubusercontent.com/50666531/101950463-1b2d6f00-3bd4-11eb-83cc-2cf6eb93b6db.png)
 <br><br><br>
 
-#LabeX
-
 Tabela de conteúdos
 =================
 <!--ts-->
