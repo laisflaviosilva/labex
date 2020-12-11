@@ -4,11 +4,11 @@
 Tabela de conteúdos
 =================
 <!--ts-->
-   * [Descrição do projeto](#Sobre)
-   * [Como rodar a aplicação](#instalacao)
-   * [Como usar](#como-usar)
-      * [Pre Requisitos](#pre-requisitos)
-   * [Tecnologias](#tecnologias)
+   * [Descrição do projeto]
+   * [Como rodar a aplicação]
+   * [Como usar]
+      * [Pre Requisitos]
+   * [Tecnologias]
 <!--te-->
 
 ## Descrição do projeto 🚀
@@ -19,17 +19,13 @@ Tabela de conteúdos
   
 ## Objetivo
 
-<ul>
-  <li>Como visitante: 🙆‍♀️
-    <li>Candidatar-se para viagens existente, preenchendo um formulário.</li>
-  </li>
-  <li>Como administrador: 👮
-    <li>Criar novas viagens</li>
-    <li>Excluir viagens</li>
-    <li>Aprovar ou recusar candidaturas</li>
-    <li>Criar novos usuários administradores</li>
-  </li>
-</ul>
+* Como visitante: 🙆‍♀️
+- Candidatar-se para viagens existente, preenchendo um formulário.
+* Como administrador: 👮
+- Criar novas viagens
+- Excluir viagens
+- Aprovar ou recusar candidaturas
+- Criar novos usuários administradores
 
 ## Como rodar a aplicação
 
