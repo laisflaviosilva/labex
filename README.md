@@ -19,9 +19,9 @@ Tabela de conteúdos
   
 ## Objetivo
 
-* Como visitante: 🙆‍♀️
+ #### Como visitante: 🙆‍♀️
 - Candidatar-se para viagens existente, preenchendo um formulário.
-* Como administrador: 👮
+ #### Como administrador: 👮
 - Criar novas viagens
 - Excluir viagens
 - Aprovar ou recusar candidaturas
